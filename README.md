@@ -16,3 +16,9 @@
 Para utilização do template na criação de um novo projeto basta utilizar o template criado e alocado no npm "boilerplate-react"
 
 Exemplo: yarn create react-app my-app --template boilerplate-react
+
+Após a instalação, atualizar os pacotes e executar a aplicação da seguinte forma 
+```shell
+$ yarn upgrade -R eslint
+$ yarn start
+```
